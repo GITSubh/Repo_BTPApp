@@ -1,2 +1,2 @@
 # Repo_BTPApp - App
-> Business Application (Hana Academy )
+> My Business Application (Hana Academy )
